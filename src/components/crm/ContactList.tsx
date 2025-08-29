@@ -5,7 +5,6 @@ import {
   TableHeader,
   TableRow,
 } from "../ui/table";
-import Badge from "../ui/badge/Badge";
 
 // Define the TypeScript interface for the table rows
 interface Contact {
